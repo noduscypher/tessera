@@ -1,5 +1,9 @@
 # tessera
 
+<p align="center">
+  <img src="screenshot.png" alt="tessera · anno domini mcxviii · cypherpunk channel" width="100%">
+</p>
+
 invite-only mesh chatroom scheme for NomadNet / Reticulum
 
 ---
