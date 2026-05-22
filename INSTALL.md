@@ -21,7 +21,10 @@ cd tessera
 
 ## step 2 — clone the base chatroom
 
-tessera builds on top of noduscypher/thechatroom.
+tessera builds on top of `noduscypher/thechatroom` — a fork of the
+original [`fr33n0w/thechatroom`](https://github.com/fr33n0w/thechatroom),
+the IRC-style mesh chatroom engine for NomadNet.
+
 clone it and copy files to your NomadNet pages root with `chatroom-` prefix:
 
 ```bash

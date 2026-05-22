@@ -171,10 +171,17 @@ Freddy Silva
 
 ## credits
 
-based on [noduscypher/thechatroom](https://github.com/noduscypher/thechatroom)
+chatroom engine — originally by **fr33n0w**
+[fr33n0w/thechatroom](https://github.com/fr33n0w/thechatroom)
+the IRC-style mesh chatroom that made this possible.
+
+adapted via [noduscypher/thechatroom](https://github.com/noduscypher/thechatroom)
+— rawmesh node integration, NomadNet pages layout, persistence tweaks.
 
 tessera scheme, manifesto and dead drop concept:
-original work — Monsanto · Beira Baixa · Portugal
+original work — Monsanto · Beira Baixa · Portugal · anno domini mcxviii
+
+> signal forward. attribution upstream.
 
 ---
 
