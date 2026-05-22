@@ -24,8 +24,8 @@ index.mu
   ──────                              ─────────────
   1. vê a página fake
   2. contacta-te via LXMF        →    3. recebes o pedido
-     hash: 35de307ad9c6dcbe             Field Signal:
-           76c4285a97d65adc              35de307ad9c6dcbe76c4285a97d65adc
+     hash: 0a1b2c3d4e5f6789             Field Signal:
+           0abcdef012345678              0a1b2c3d4e5f67890abcdef012345678
 
                                     4. decides se aceitas
                                     5. partilhas o link privado  →  pessoa recebe
